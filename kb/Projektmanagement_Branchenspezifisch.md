@@ -1,8 +1,8 @@
 ---
-title: Projektmanagement_Branchenspezifisch
-tags: agil klassisch
+title: Projektmanagement Branchenspezifisch
+tags: agil klassisch projektmanagement
 author: enesmvlt
-anrechnung: k oder a
+anrechnung: k 
 ---
 
 Kurzbeschreibung zu Projektmanagement_Branchenspezifisch um ein erstes Verständnis dafür zu schaffen um was es hier geht.
